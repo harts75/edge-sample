@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/Sample/:/",
-    "/content/Sample/configuration:/.helix/config.json",
-    "/content/Sample/metadata:/metadata.json"
+    "/content/edge_sample/:/",
+    "/content/edge_sample/configuration:/.helix/config.json",
+    "/content/edge_sample/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/Sample/"
+    "/content/edge_sample/"
   ]
 }
